@@ -21,7 +21,9 @@ Let a∈Z₂, b∈Zq, h∈Z₂. Define c(a,b)=a XOR (b mod 2). On any event move
 
 Find applications, or show why the model fails in a proposed application. Possible domains are open: machines, astronomy and space operations, distributed computation, robotics, art and beyond. Document the measurement assumptions.
 
-Free research paper: https://doi.org/10.5281/zenodo.23903785
+Software release DOI (author reports published; verify its Zenodo landing page): https://doi.org/10.5281/zenodo.23907698
+
+Enclosing research preprint: https://doi.org/10.5281/zenodo.23903785
 
 Optional Patreon: https://www.patreon.com/usunbound
 
