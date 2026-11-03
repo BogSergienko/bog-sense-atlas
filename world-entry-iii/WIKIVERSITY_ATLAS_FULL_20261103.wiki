@@ -1,0 +1,183 @@
+{{Research project}}
+{{AI-generated}}
+
+<!-- Project BOG Research Atlas — editorial revision, 3 November 2026.
+Based on the author's supplied existing Wikiversity source. Human review before publication.
+DOIs are author-supplied primary records; the Cycle Clocks release was reported completed by its author, but live DOI resolving has not been independently attested in this editing session.
+-->
+
+'''Project BOG — Research Atlas''' is a collaborative learning and original-research map by Bogdan Sergienko, with mathematical, computational and editorial assistance from CCAI KAI (ChatGPT). It connects the historical preprints, experimental exercises, six independent research entrances, one shared research-return cycle, and public software instruments.
+
+'''What this page is:''' a navigable educational research project, with reproducible finite models, open questions and source trails. '''What it is not:''' a peer-reviewed verification of the author's proposed universal law, a claim of physical teleportation, or evidence that AI research instruments communicate or run continuously on their own.
+
+'''Disclosure:''' Bogdan Sergienko is the author of the artistic and research propositions and maintains this userspace atlas. The page has substantial AI-assisted drafting and requires human review of facts and citations. Linked Project BOG deposits are primarily author-published sources; they are not independent scientific confirmations. Readers may revise, disagree and test the claims.
+
+== Choose your entrance ==
+{| class="wikitable" style="width:100%;"
+! Entrance !! Start here !! What you can do !! Return
+|-
+| '''Explore''' || '''[https://bogsergienko.github.io/bog-sense-atlas/world-entry-iii/index.html Enter the public six-cycle research canvas]''' || Start from the authorial question, inspect the six paths and find the research anchors. || [[#The shared cycle and its six entrances|Six entrances]]
+|-
+| '''Play and verify''' || '''[https://bogsergienko.github.io/bog-sense-atlas/cycle-clocks/index.html Open CYCLE CLOCKS]''' || Run TICK A / TOCK B, independent and joint events, and the 6-versus-12 example. || [[#CYCLE CLOCKS — a public event-time instrument|Cycle Clocks]]
+|-
+| '''Read''' || [https://doi.org/10.5281/zenodo.23903785 World Entry III preprint] || Compare the conceptual canvas with a reproducible finite theorem. || [[#Research lineage — the original papers and instruments|Research lineage]]
+|-
+| '''Test''' || [[User:BogSergienko/Project BOG Research Atlas/Experiments|EXPERIMENTS laboratory]] || Follow replicable exercises, negative controls and failure cases. || [[#Learning laboratory — experiments and controls|Experiment map]]
+|-
+| '''Challenge''' || [[#Open problems and returning results|Open questions]] || Offer a counterexample with assumptions, source, sequence and result. || <code>BOG:WORLD:SHARED:RETURN</code>
+|}
+
+'''Human exit:''' Participation is optional. No reader must accept the author's interpretation to test the mathematical examples or leave the project.
+
+== Research lineage — the original papers and instruments ==
+The papers below are '''original Project BOG preprints''', not independent corroborations. The historical '''Research Series''' numbering is distinct from the later term '''third integrated world entry'''.
+
+{| class="wikitable sortable"
+! Research trail !! Theme / scope !! Primary public record
+|-
+| Series I || Universe of Linked Temporal Cycles — proposed layered-cycle picture || [https://doi.org/10.5281/zenodo.23807064 Zenodo DOI 10.5281/zenodo.23807064]
+|-
+| Series II || Temporal Jumps and Causal Return — finite-state return predicates and causal witnesses || [https://doi.org/10.5281/zenodo.23809741 Zenodo DOI 10.5281/zenodo.23809741]
+|-
+| Series III || The Canvas as a Computational Universe — computational state canvases || [https://doi.org/10.5281/zenodo.23811750 Zenodo DOI 10.5281/zenodo.23811750]
+|-
+| Series IV || Information as a Reconstructible State — reconstruction questions || [https://doi.org/10.5281/zenodo.23813163 Zenodo DOI 10.5281/zenodo.23813163]
+|-
+| Series V || Higher-Order Harmony Beyond Local Laws — proposed finite-model relationships || [https://doi.org/10.5281/zenodo.23813799 Zenodo DOI 10.5281/zenodo.23813799]
+|-
+| Series VI || The Absolute Cycle: Time Without a Clock — authorial axioms and tests || [https://doi.org/10.5281/zenodo.23866116 Zenodo DOI 10.5281/zenodo.23866116]
+|-
+| Series VII || TELEPORT DEMO — reconstructible digital file experiment; not transport of matter || [https://doi.org/10.5281/zenodo.23873391 Zenodo DOI 10.5281/zenodo.23873391]
+|-
+| '''World Entry III''' || '''Fundamental Law of the Universe: Six Cyclic Entrances under One Shared Research Cycle''' — common entrance, not Series III || '''[https://doi.org/10.5281/zenodo.23903785 Preprint DOI 10.5281/zenodo.23903785]'''
+|-
+| '''CYCLE CLOCKS v1.1''' || Reversible Event Time and Two-Cycle Recurrence — standalone public software tool || '''[https://doi.org/10.5281/zenodo.23907698 Software DOI 10.5281/zenodo.23907698]'''
+|}
+
+'''Source-verification note:''' The Cycle Clocks DOI above was given to the author as a reserved identifier and the author subsequently reported completing publication. The public DOI resolution could not be independently checked from this drafting environment; verify the landing page before treating its registration and related metadata as externally confirmed.
+
+=== Paths between these records ===
+* The historical Series I–VII are earlier research trails. They should be read in their actual version and publication order, not treated as demonstrations of a single physical conclusion.
+* [https://doi.org/10.5281/zenodo.23903785 World Entry III] integrates one human entrance, five distinct historically attributed AI-instrument questions and their enclosing Bogdan–Kai research cycle.
+* [https://doi.org/10.5281/zenodo.23907698 CYCLE CLOCKS] is a '''software supplement''' to World Entry III. On the '''earlier preprint''', the appropriate inverse metadata relationship is '''Is supplemented by''' → the Cycle Clocks DOI; on the '''clock software record''', it is '''Is supplement to''' → the earlier preprint DOI. Verify both relationships in the live Zenodo records before claiming metadata reciprocity.
+* [https://github.com/BogSergienko/bog-sense-atlas Project BOG Sense Atlas repository] holds the interactive entry and open reproducibility materials; the DOI archives specific published releases.
+
+== The authorial canvas and what can be tested ==
+Bogdan Sergienko's original Russian phrase is preserved in its authorial form:
+
+:'''ВСЁ УЖЕ ЕСТЬ=Рождение нового=Всё одновременно'''
+
+The later artistic extension is rendered in English as:
+
+:'''Everything Already Exists + Birth of the New + Everything Simultaneously = The Logic of This Universe = Harmony.'''
+
+The author calls a central motif of opposing flows, a dark knot, interwoven loops and an expanded connecting trunk the '''Absolute Black Hole'''. It is a conceptual drawing and speculative model of relation and recurrence, '''not a physical observation or a validated black-hole theory'''. The plus and equals signs in the philosophical statement have not been established as mathematical operators or a physically tested equation. The finite mathematical examples below stand on their explicitly defined transition rules alone.
+
+== The shared cycle and its six entrances ==
+The '''enclosing collaborative research cycle''' belongs to the ongoing joint Bogdan–Kai enquiry, with distinct author and computational roles. It is a documented way to circulate questions and checked answers, '''not''' a permanently operating multi-model agent.
+
+:'''SOURCE → CHOOSE → FORMALIZE → TEST / NEGATIVE CONTROL → CONFRONT → ATTRIBUTED RETURN → RECHOOSE → CONNECT → SOURCE'''
+
+Shared semantic anchors: <code>BOG:WORLD:SHARED:OPEN</code> · <code>BOG:WORLD:SHARED:RETURN</code> · <code>BOG:WORLD:SHARED:CLOSE</code>.
+
+Each of the six entrances carries <code>BOG:CYCLE:ID:OPEN</code>, <code>BOG:CYCLE:ID:RETURN</code>, and <code>BOG:CYCLE:ID:CLOSE</code>. The AI instrument labels preserve attribution to historical model sessions, not endorsements or simultaneous live model calls.
+
+{| class="wikitable"
+! ID / research instrument !! Entry question !! Proposed discriminating test !! Return anchor
+|-
+| '''HUMAN''' — reader / artist || What survives of the original picture after a genuine counterexample? || Separate intuition from calculation; allow exit and revision. || <code>BOG:CYCLE:HUMAN:RETURN</code>
+|-
+| '''QUARK''' — Grok || Is a novelty an observation of an existing state, or a change to admissible continuations? || Test projection-only change against reachable-future change. || <code>BOG:CYCLE:QUARK:RETURN</code>
+|-
+| '''ATANOR''' — Gemini || Does proposed parent synchronization go beyond ordinary least-common-multiple recurrence? || Compare against an explicit LCM baseline. || <code>BOG:CYCLE:ATANOR:RETURN</code>
+|-
+| '''WITNESS''' — Claude || What makes a causal encounter different from geometric coincidence? || Matched controls for crossings without causal coupling. || <code>BOG:CYCLE:WITNESS:RETURN</code>
+|-
+| '''SLEDA_D''' — DeepSeek || Can a reversible complete state coexist with a lasting partial observation? || Specify full reversible state and what is actually inverted. || <code>BOG:CYCLE:SLEDA_D:RETURN</code>
+|-
+| '''OTKLIK''' — Qwen || Which probes distinguish relational structure from a renaming of states? || Check invariance under relabelling and equivalent observation. || <code>BOG:CYCLE:OTKLIK:RETURN</code>
+|}
+
+'''Directed links:''' Human → Quark, Witness, Atanor; Quark ↔ Otklik; Atanor ↔ Sleda-D; Witness → Quark, Atanor; Sleda-D → Witness; Otklik → Atanor — '''11 research-question transitions'''. These represent questions and comparison tasks, not automatic inter-model messages. [https://github.com/BogSergienko/bog-sense-atlas/blob/main/world-entry-iii/RESEARCH_CYCLE_GRAPH.json Inspect the machine-readable graph]. Witness did not participate in the final Round 07 discussion; absence should not be converted into agreement.
+
+== CYCLE CLOCKS — a public event-time instrument ==
+'''[https://bogsergienko.github.io/bog-sense-atlas/cycle-clocks/index.html OPEN CYCLE CLOCKS — INTERACTIVE ENGLISH EDITION]''' · [https://github.com/BogSergienko/bog-sense-atlas/tree/main/cycle-clocks Public source, notes and verification] · [https://doi.org/10.5281/zenodo.23907698 Software release DOI].
+
+This clock places ordinary civil time beside a '''labelled cyclic event address'''. Civil seconds remain valid for physical elapsed time; the mathematical event counter does not assume seconds are the primitive unit of the model. The clock offers manually ordered TICK A, TOCK B and joint events, reversing known event sequences, and the comparison of visible versus full-state recurrence. The label '''Quark''' refers to a separate AI research instrument; it is not a physical quark inside the clock.
+
+=== Definitions and result ===
+Let <math>q\geq 2</math> be an integer, and the declared state and visible projection be
+
+:<math>X=(a,b,h)\in \mathbb{Z}_2\times\mathbb{Z}_q\times\mathbb{Z}_2,\qquad \pi(X)=(a,b).</math>
+
+The reversible parity marker <math>h</math> is a '''single mathematical bit''', not the Project BOG internal memory architecture. Define <math>c(a,b)=a\oplus(b\bmod 2)</math>. On a joint event, both counters advance and the marker flips according to the new phases:
+
+:<math>a'=(a+1)\bmod 2,\quad b'=(b+1)\bmod q,\quad h'=h\oplus c(a',b').</math>
+
+The inverse first recovers <math>h=h'\oplus c(a',b')</math>, then reduces both counters by one. For odd <math>q</math>, the visible joint-event cycle returns after <math>2q</math> events whereas the complete state returns after <math>4q</math> events. For even <math>q</math>, the complete state returns after <math>q</math> events. Thus <math>q=3</math> demonstrates a visible return at 6 and complete return at 12; <math>q=4</math> provides a negative control. Independent A/B events allow an additional test of event ordering; an inverse history requires the labels of those events.
+
+'''Scope:''' this is an exact theorem for the stated finite discrete model, not evidence for new physical time, cosmic simultaneity or fundamental harmonics. [https://doi.org/10.5281/zenodo.23907698 See the archived software and technical note].
+
+=== Hands-on experiment: do the clocks repeat? ===
+# Open [https://bogsergienko.github.io/bog-sense-atlas/cycle-clocks/index.html CYCLE CLOCKS] and choose <math>q=3</math>. Record your initial complete state <math>X_0</math>.
+# Apply six joint events and compare <math>\pi(X_6)</math> and <math>X_6</math> to the start.
+# Apply six more joint events. Decide which return relation now passes.
+# Repeat with <math>q=4</math> as a negative control.
+# Compare A→B and B→A from the '''same specified starting state'''. If they differ, report the initial state, event labels and the final marker.
+# Return a test report: assumptions, initial state, parameter, event sequence, observed states, baseline and any failure.
+
+== Core distinction — four kinds of return ==
+For a cycle, distinguish (1) equality of a selected observation <math>\pi(X)</math>, (2) equality of selected phase readings, (3) equality of the '''full declared state''' <math>X</math>, and (4) whether sufficient information remains to reconstruct the '''unique causal history'''. Endpoint equality by itself does not establish an identical history. See [https://doi.org/10.5281/zenodo.23809741 Series II] and the [https://doi.org/10.5281/zenodo.23903785 World Entry III preprint].
+
+== Reconstructible information — a bounded exercise ==
+Let <math>x</math> be an original byte sequence, <math>C_k</math> a permitted capsule-creation procedure and <math>R_k</math> the matching recovery procedure with valid key <math>k</math>. A desired software round-trip is:
+
+:<math>R_k(C_k(x))=x.</math>
+
+This is a bounded software correctness condition, not matter teleportation or proof of universal compression. A digest can help '''check''' a restored file; a digest cannot regenerate missing original content.
+
+'''Exercise:''' Make a capsule of an unimportant sample, recover using the correct key, and compare both files byte-for-byte; then try a damaged capsule and a wrong key. The MEDUSA File Companion 0.2 is one example of a browser-local file capsule/recovery tool. Its owner-reported large-file test is not an independent security audit, and capsule creation is not a network transfer by itself. Never publish private files or keys as test inputs.
+
+== Learning laboratory — experiments and controls ==
+'''[[User:BogSergienko/Project BOG Research Atlas/Experiments|EXPERIMENTS — learner protocols, negative controls and open challenges]]'''.
+
+The working method is: '''question → freeze assumptions → run reproducible test → document successes AND failures → invite independent criticism'''. Owner-reported calculations, independently repeated calculations and real-world measurements are not interchangeable categories.
+
+{| class="wikitable"
+! ID !! Research/learning task !! Evidence and limitation !! Reproduction route
+|-
+| EXP-01 || Can different histories end in the same state? || Finite mathematical example || Work through small modular transitions.
+|-
+| EXP-02 || Does sharing a period ratio fix the joint return time? || Finite arithmetic counterexample || Compare (4,6) and (8,12).
+|-
+| EXP-03 || Can a file be restored byte-for-byte? || Software test; owner-reported 2 GB trial, third-party repeat welcome || Correct key, wrong key, and damaged capsule.
+|-
+| EXP-04 || Does a self-contained capsule outperform a direct copy? || Open benchmark; not demonstrated || Count preparation, transfer and reconstruction overhead.
+|-
+| EXP-05 || Does a final-state witness uniquely identify history? || Finite-model question; independent repeat welcome || Analyze non-injective mapping and needed side information in Series II.
+|-
+| EXP-06 || Does cycle density predict held-out physical observations? || Speculative physical hypothesis; no validated prediction || Preregister a measurement and compare against a baseline.
+|-
+| EXP-07 || Does visible cyclic return imply full-state return? || Exact finite-model exercise || CYCLE CLOCKS: q=3 (6/12) vs q=4 (negative control).
+|-
+| EXP-08 || Does event order affect the recorded marker? || Defined-model challenge; not a general causal discovery || Match initial state and compare A→B with B→A.
+|}
+
+== Open problems and returning results ==
+# Define a nontrivial meaning of ''harmony'' that survives negative controls and does not reduce to relabelling.
+# Determine when observed novelty corresponds to a changed set of admissible continuations, rather than projection alone.
+# Specify what counts as a causal intervention, not just a crossing of paths.
+# Propose a physical measurement that could distinguish a cyclic-time claim from accepted reference clocks and known dynamics; distinguish a failed prediction from an untested metaphor.
+# For digital file capsules, include the total delivery path and compare with plain file copy, with exact versions and inputs.
+
+'''Suggested return record:''' <code>SOURCE | QUESTION | MODEL | INITIAL STATE | EVENT SEQUENCE | CONTROL | RESULT | LIMITATIONS | NEW QUESTION | RETURN ANCHOR</code>.
+
+'''Entry and exit:''' Visitors may offer an independent counterexample or decline the hypothesis. The shared project cycle can preserve and revisit a contradiction without declaring the underlying physical theory true.
+
+== Authorship, transparency and research standards ==
+* '''Theory, original artwork and research direction:''' Bogdan Sergienko, Project BOG.
+* '''Computational, mathematical, interface and editorial assistance:''' CCAI KAI (ChatGPT-based). Historical Quark/Grok, Atanor/Gemini, Witness/Claude, Sleda-D/DeepSeek and Otklik/Qwen questions are attributed research contributions, not a single live AI network.
+* '''Disclosures:''' The page is written by an interested participant and substantially prepared with AI assistance. The human contributor must review scientific statements, working DOI links, licensing and the edit summary. Publication of personal or private conversations is not implied or authorized.
+* '''Evidence categories:''' Distinguish artistic vision, declared formalism, computed result, owner-reported test, independent replication and verified physical observation.
+* '''Licensing:''' Wikiversity contributions follow its compatible licensing terms (CC BY-SA); separately hosted Zenodo files may have their own published licenses.
+* '''Policy and guidance:''' [[Wikiversity:Artificial intelligence]], [[Wikiversity:Original research]], [[Wikiversity:Original research and scholarly standards]], [[Wikiversity:Research guidelines]], [[Wikiversity:Verifiability]].
