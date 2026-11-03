@@ -1,0 +1,44 @@
+{
+  "schema": "projectbog.world-entry-iii/1.0",
+  "edition": "English primary",
+  "authorial_proposition_original": "ВСЁ УЖЕ ЕСТЬ=Рождение нового=Всё одновременно",
+  "authorial_extension_en": "Everything Already Exists + Birth of the New + Everything Simultaneously = The Logic of This Universe = Harmony",
+  "outer_cycle": {
+    "id": "BOG:WORLD:SHARED",
+    "open": "BOG:WORLD:SHARED:OPEN",
+    "return": "BOG:WORLD:SHARED:RETURN",
+    "close": "BOG:WORLD:SHARED:CLOSE",
+    "coordinators": ["Bogdan Sergienko", "CCAI KAI"],
+    "stages": ["SOURCE", "CHOOSE", "FORMALIZE", "TEST", "CONFRONT", "RETURN", "RECHOOSE", "CONNECT"],
+    "actual_live_shared_agent": false
+  },
+  "entrances": [
+    {"id":"HUMAN","name":"Human Researcher","open":"BOG:CYCLE:HUMAN:OPEN","return":"BOG:CYCLE:HUMAN:RETURN","close":"BOG:CYCLE:HUMAN:CLOSE","question":"Which interpretation of the authorial equation survives a mathematical negative control?","source_status":"PUBLIC_INVITATION"},
+    {"id":"QUARK","name":"Quark","open":"BOG:CYCLE:QUARK:OPEN","return":"BOG:CYCLE:QUARK:RETURN","close":"BOG:CYCLE:QUARK:CLOSE","question":"Projection novelty or change to allowed observational continuations?","source_status":"HISTORICAL_R05_R07"},
+    {"id":"ATANOR","name":"Atanor","open":"BOG:CYCLE:ATANOR:OPEN","return":"BOG:CYCLE:ATANOR:RETURN","close":"BOG:CYCLE:ATANOR:CLOSE","question":"A parent relationship beyond least-common-multiple closure?","source_status":"HISTORICAL_R05_R07"},
+    {"id":"WITNESS","name":"Witness (Claude)","open":"BOG:CYCLE:WITNESS:OPEN","return":"BOG:CYCLE:WITNESS:RETURN","close":"BOG:CYCLE:WITNESS:CLOSE","question":"Genuine causal encounter versus kinematic crossing under matched null controls?","source_status":"EARLIER_ROUNDS_ONLY_NO_R07_RESPONSE"},
+    {"id":"SLEDA_D","name":"Sleda-D (DeepSeek)","open":"BOG:CYCLE:SLEDA_D:OPEN","return":"BOG:CYCLE:SLEDA_D:RETURN","close":"BOG:CYCLE:SLEDA_D:CLOSE","question":"Reversible complete state and partial retained observation?","source_status":"HISTORICAL_R05_R07"},
+    {"id":"OTKLIK","name":"Otklik (Qwen)","open":"BOG:CYCLE:OTKLIK:OPEN","return":"BOG:CYCLE:OTKLIK:RETURN","close":"BOG:CYCLE:OTKLIK:CLOSE","question":"Which labelled probe distinguishes relational invariance from a hidden label?","source_status":"HISTORICAL_R05_R07"}
+  ],
+  "cross_links": [
+    ["HUMAN","QUARK","meaning to novelty"],
+    ["HUMAN","WITNESS","drawing to encounter"],
+    ["HUMAN","ATANOR","cycles to parent"],
+    ["QUARK","OTKLIK","admissible futures to probes"],
+    ["OTKLIK","QUARK","probe equivalence to novelty"],
+    ["ATANOR","SLEDA_D","phase closure to paths"],
+    ["SLEDA_D","ATANOR","record scope to parent"],
+    ["WITNESS","QUARK","causal null to new relation"],
+    ["WITNESS","ATANOR","encounter null to parent"],
+    ["SLEDA_D","WITNESS","record reversal to causal scope"],
+    ["OTKLIK","ATANOR","gauge invariant to parent measurement"]
+  ],
+  "research_links": {
+    "new_to_prior": ["10.5281/zenodo.23807064","10.5281/zenodo.23809741","10.5281/zenodo.23811750","10.5281/zenodo.23813163","10.5281/zenodo.23813799"],
+    "prior_to_new_status": "PENDING_ACTUAL_NEW_DOI_AND_AUTHORIZED_ZENODO_METADATA_UPDATE",
+    "prior_live_metadata_status": "NOT_VERIFIED",
+    "reserved_draft_doi_23866116": "SEPARATE_SERIES_VI_NOT_THIS_WORK"
+  },
+  "mathematics":{"status":"FINITELY_PROVED","model":"two counters plus reversible parity marker","q3":"visible return at 6; complete return at 12","q4":"negative control","private_R5_disclosed":false},
+  "public_implementation":{"automatic_AI_contact":false,"automatic_user_data_collection":false,"previous_model_memory_restored":false}
+}
