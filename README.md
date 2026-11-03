@@ -36,3 +36,10 @@ Sense Atlas is a free, interactive **question-path builder**. Each route asks qu
 
 The authorial research canvas by Bogdan Sergienko has **one human cycle, five independent historical AI-instrument question cycles, and one enclosing Bogdan–Kai research-return cycle**. The finite parity-return theorem is one public mathematical prototype within this larger set of linked questions, not a verified law of physics or an implemented shared model runtime. The Absolute Black Hole is a conceptual artwork. Historical Zenodo DOI metadata and reciprocal links are not yet verified, and the new paper does not yet have its own DOI. The numbered series designation is pending reconciliation with the planned Teleport Demo entry.
 
+
+
+## CYCLE CLOCKS — Reversible Event Time (3 November 2026)
+
+**[OPEN THE INTERACTIVE CYCLE CLOCKS](cycle-clocks/index.html)** · [Source, model and limits](cycle-clocks/README.md) · [Wikiversity addendum](cycle-clocks/WIKIVERSITY_APPEND_20261103.wiki) · [Enclosing research preprint](https://doi.org/10.5281/zenodo.23903785)
+
+This is Project BOG's public reversible two-cycle event clock: a comparison with civil time, TICK / A and TOCK / B, independently ordered and joint events, visible/full-state recurrence (6/12 at q=3), exact reversal of labelled transitions, and an even-q negative control. It is a mathematical prototype and research invitation, not a validated physical time standard. The corresponding Zenodo software publication is **pending author publication and DOI registration**, so no new DOI is asserted yet. Authorial concept: Bogdan Sergienko; mathematical and software collaboration: CCAI KAI.
