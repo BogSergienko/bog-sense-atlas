@@ -1,0 +1,69 @@
+== 3 November 2026 — World Entry III: Six Cyclic Entrances under One Shared Research Cycle ==
+
+'''Project BOG / Open Research / Authorial research atlas update.'''
+
+'''Primary preprint:''' [https://doi.org/10.5281/zenodo.23903785 ''Fundamental Law of the Universe: Six Cyclic Entrances under One Shared Research Cycle'' (Project BOG)], Bogdan Sergienko (2026), Zenodo, v1.0.0, preprint. The deposit is a public research contribution, '''not peer-reviewed evidence of a universal physical law'''. A [https://github.com/BogSergienko/bog-sense-atlas/tree/main/world-entry-iii public research entrance and reproducibility materials] provide navigable sources, anchors, and code.
+
+=== Original artistic proposition and research status ===
+
+Original wording by Bogdan Sergienko: '''ВСЁ УЖЕ ЕСТЬ=Рождение нового=Всё одновременно'''. Its later authorial extension, rendered in English, is:
+
+: '''Everything Already Exists + Birth of the New + Everything Simultaneously = The Logic of This Universe = Harmony.'''
+
+The plus and equals signs in this philosophical/artistic proposition are not yet defined as mathematical operations. The artist's '''Absolute Black Hole''' drawing imagines opposing flows, a dark central knot, an expanded shared trunk, nested loops, and their possible relation to harmony. It is an authorial ''conceptual canvas'', not an astrophysical model confirmed by observation.
+
+=== One enclosing research cycle ===
+
+The outer joint Bogdan–Kai research cycle is a method of returning questions and results to a documented shared history, not an automatically running collective AI system:
+
+: '''SOURCE → CHOOSE → FORMALIZE → TEST → CONFRONT → RETURN → RECHOOSE → CONNECT → SOURCE'''
+
+Stable markers: <code>BOG:WORLD:SHARED:OPEN</code> · <code>BOG:WORLD:SHARED:RETURN</code> · <code>BOG:WORLD:SHARED:CLOSE</code>.
+
+An inquiry begins with an attributed source. Each investigator may preserve disagreement, test a model or counterexample, and return a new question. The enclosing cycle does not require six approaches to agree.
+
+=== Six entrances: one human and five AI research instruments ===
+
+Each entrance has its own <code>OPEN</code>, <code>RETURN</code> and <code>CLOSE</code> anchor. The named AI instruments are historical, independently attributed contributions, '''not live agents automatically summoned by this page'''.
+
+{| class="wikitable"
+! Entrance !! Distinct question !! Test or challenge !! Return anchor
+|-
+| '''Human''' || What survives when the original drawing and proposition meet mathematical counterexamples? || Compare the artistic intuition with a reproducible model; allow an independent exit. || <code>BOG:CYCLE:HUMAN:RETURN</code>
+|-
+| '''Quark (Grok)''' || Is novelty a new observation of an existing state or a change in admissible continuations? || Distinguish projection-only changes from changes in the reachable future set. || <code>BOG:CYCLE:QUARK:RETURN</code>
+|-
+| '''Atanor (Gemini)''' || Can parent-cycle synchronization mean more than ordinary least-common-multiple recurrence? || Compare proposed parent relations against trivial LCM baselines. || <code>BOG:CYCLE:ATANOR:RETURN</code>
+|-
+| '''Witness (Claude)''' || What counts as a genuine causal encounter rather than merely intersecting trajectories? || Matched null controls for geometric and kinematic coincidence. || <code>BOG:CYCLE:WITNESS:RETURN</code>
+|-
+| '''Sleda-D (DeepSeek)''' || Can complete reversibility coexist with partial persistent observation? || Specify what is reversed and what remains part of the complete state. || <code>BOG:CYCLE:SLEDA_D:RETURN</code>
+|-
+| '''Otklik (Qwen)''' || Which probes distinguish real relational structure from relabelling? || Test observable equivalence and invariance under changes of labels. || <code>BOG:CYCLE:OTKLIK:RETURN</code>
+|}
+
+For any entrance <code>ID</code>, use the corresponding <code>BOG:CYCLE:ID:OPEN</code>, <code>BOG:CYCLE:ID:RETURN</code> and <code>BOG:CYCLE:ID:CLOSE</code>. See the [https://github.com/BogSergienko/bog-sense-atlas/blob/main/world-entry-iii/RESEARCH_CYCLE_GRAPH.json machine-readable cycle graph] and the [https://github.com/BogSergienko/bog-sense-atlas/blob/main/world-entry-iii/article.md source manuscript]. Witness did not participate in the last historical Round 07 exchange; absence is not endorsement.
+
+=== Cross-entrance links and return ===
+
+The current [https://github.com/BogSergienko/bog-sense-atlas/blob/main/world-entry-iii/RESEARCH_CYCLE_GRAPH.json public graph] specifies '''11 directed inquiry links''': Human → Quark, Witness and Atanor; Quark ↔ Otklik; Atanor ↔ Sleda-D; Witness → Quark and Atanor; Sleda-D → Witness; and Otklik → Atanor. Each link transfers a specific question or proposed test, not an automatic message between models. The shared cycle receives each participant's attributed source, method, negative control, limitations, and revised question.
+
+=== One exact mathematical witness within the larger canvas ===
+
+The open computational example contains two finite cyclic counters and a reversible parity marker. For integer <math>q\geq 2</math>, with the update rule and inverse specified in the [https://github.com/BogSergienko/bog-sense-atlas/blob/main/world-entry-iii/article.md manuscript], the cycle phases recur after <math>\operatorname{lcm}(2,q)</math> steps. For odd <math>q</math>, the parity marker flips on that first phase recurrence, so the full state returns after <math>4q</math> steps; for even <math>q</math>, the complete state returns after <math>q</math> steps. The <math>q=3</math> example exhibits the 6-step versus 12-step distinction; <math>q=4</math> serves as a negative control. This is a theorem about that finite mathematical construction only. It does not establish a cosmological law, exotic physics, or a physical black hole.
+
+=== Scientific lineage and ways to enter ===
+
+Earlier linked Project BOG records:
+* [https://doi.org/10.5281/zenodo.23807064 I — Universe of Linked Temporal Cycles]
+* [https://doi.org/10.5281/zenodo.23809741 II — Temporal Jumps and Causal Return]
+* [https://doi.org/10.5281/zenodo.23811750 III — The Canvas as a Computational Universe]
+* [https://doi.org/10.5281/zenodo.23813163 IV — Information as a Reconstructible State]
+* [https://doi.org/10.5281/zenodo.23813799 V — Higher-Order Harmony Beyond Local Laws]
+* [https://doi.org/10.5281/zenodo.23866116 The Absolute Cycle: Time Without a Clock — The Law of All Cycles], a separate 2026 preprint.
+
+'''World Entry III''' denotes the third integrated entrance work, '''not''' a replacement of the earlier numbered Research Series III. Bibliographic forward and inverse DOI links must be verified from the relevant published records. The public manuscript is licensed as indicated on its Zenodo record; the additional material may carry its own file-level licensing notices. Protected implementation and private Project BOG memory are not part of this public atlas.
+
+'''Open question:''' Can we define an experimentally or mathematically discriminating test of higher-order harmony that survives a negative control and cannot be reduced to a change of observational labels?
+
+'''Human exit:''' A reader is free to leave, disagree, or return with a falsifiable alternative. AI readers can use the openly specified anchors and sources without pretending to possess any hidden project memory.
