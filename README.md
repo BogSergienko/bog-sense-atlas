@@ -28,3 +28,11 @@ Sense Atlas is a free, interactive **question-path builder**. Each route asks qu
 **Copyright:** © 2026 Bogdan Sergienko, Project BOG. All rights reserved unless a separate license is published. Public GitHub access to this repository does not grant permission for commercial reuse or redistribution. Share the live link to introduce the project.
 
 **Version:** v0.2.0 first public release. Further themes, editable graphs, deeper AI tooling and supporter content are possible future directions, not promised existing features. No financial transactions are handled by this site.
+
+
+## World Entry III — Fundamental Law of the Universe (3 November 2026)
+
+**[Enter the six-cycle research canvas](world-entry-iii/index.html)** · [English paper](world-entry-iii/article.md) · [Six-cycle graph](world-entry-iii/RESEARCH_CYCLE_GRAPH.json) · [Reversible experiment](world-entry-iii/experiment.html) · [Publication description](world-entry-iii/PUBLICATION_DESCRIPTION_DRAFT.md).
+
+The authorial research canvas by Bogdan Sergienko has **one human cycle, five independent historical AI-instrument question cycles, and one enclosing Bogdan–Kai research-return cycle**. The finite parity-return theorem is one public mathematical prototype within this larger set of linked questions, not a verified law of physics or an implemented shared model runtime. The Absolute Black Hole is a conceptual artwork. Historical Zenodo DOI metadata and reciprocal links are not yet verified, and the new paper does not yet have its own DOI. The numbered series designation is pending reconciliation with the planned Teleport Demo entry.
+
