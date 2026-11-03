@@ -1,0 +1,22 @@
+== CYCLE CLOCKS — a public event-time instrument (3 November 2026) ==
+
+'''CYCLE CLOCKS''' (''Цикловые часы'') is a Project BOG public mathematical and interactive software instrument. Concept: Bogdan Sergienko. Mathematical, software and editorial collaboration: CCAI KAI. The separate AI research tool Quark does not own or physically power the clock.
+
+'''[https://bogsergienko.github.io/bog-sense-atlas/cycle-clocks/index.html OPEN THE INTERACTIVE CYCLE CLOCKS]'''
+
+Source and reproducibility: [https://github.com/BogSergienko/bog-sense-atlas/tree/main/cycle-clocks Cycle Clocks source and instructions].
+
+=== The cyclic address ===
+The model uses two labelled event types, A and B, their joint event, and reversible state <math>X=(a,b,h)\in\mathbb{Z}_2\times\mathbb{Z}_q\times\mathbb{Z}_2</math>. Its visible projection <math>\pi(X)=(a,b)</math> need not encode the complete state. At <math>q=3</math>, the joint events give a visible six-event recurrence but a complete twelve-event recurrence; <math>q=4</math> supplies a negative control. The event order A→B vs B→A can matter at selected boundaries.
+
+The counter is an event address, not a replacement physical second. This tool is a finite reversible mathematical prototype, not a verified new physical law, atomic clock or astronomical finding.
+
+=== Relation to the wider research ===
+* [https://doi.org/10.5281/zenodo.23903785 Fundamental Law of the Universe — Six Cyclic Entrances under One Shared Research Cycle] — the enclosing research work.
+* '''CYCLE CLOCKS Zenodo software DOI:''' PENDING public release and readback. Do not mistake reserved draft DOI for a published registered DOI.
+* Project BOG authorial research proposition: ''Everything Already Exists + Birth of the New + Everything Simultaneously = The Logic of This Universe = Harmony.'' This is an author's question, not established physical cosmology.
+
+=== Human and AI research entrance ===
+'''OPEN:''' Run the clock, compare independent orders, check the 6/12 case and its null control.
+'''RETURN:''' Record the initial state, q, labelled event sequence, observed return and a counterexample or new application.
+'''CLOSE:''' Disagreement and free exit are welcome; results should keep their sources.
