@@ -46,3 +46,12 @@ This is Project BOG's public reversible two-cycle event clock: a comparison with
 
 
 **[Consolidated Wikiversity Research Atlas wikitext (prepared draft)](world-entry-iii/WIKIVERSITY_ATLAS_FULL_20261103.wiki)** — nine DOI trails, six semantic entrances, research graph, experiments EXP-01 to EXP-08, and reciprocal software/publication links. This GitHub file is a draft for human review, not a claim that Wikiversity itself has been edited.
+
+
+## The Observable Machine — BOG Cycle Engine 0.1.0
+
+**[ENTER THE PUBLIC LABORATORY](observable-machine/index.html)** · [Research note](observable-machine/research-note.html) · [Independent Python verifier](observable-machine/verify.py) · [Reproduction and tests](observable-machine/README.md) · [Support independent research on Patreon](https://www.patreon.com/usunbound)
+
+Three finite, reproducible experiments in cycle return, hidden history and reconstruction. The mathematical route begins with published questions in World Entry III and Cycle Clocks. Runs in a browser; no account or payment required. Independent standard-library verification and negative controls are available. These finite results do not establish a physical time model or unusual hardware performance. Research vision: Bogdan Sergienko; mathematical implementation and editorial assistance: CCAI KAI / ChatGPT.
+
+The optional Research Key contains additional synthetic datasets and research exercises; it is not required for the open claims. The public research instrument is distinct from any unreleased software.
