@@ -489,5 +489,11 @@
     ],
     "responsibility": "attribute source and record assumptions and alternate explanations"
   },
-  "provenance_scope": "Public research map only; raw private chats, private file paths, protected code and personal circumstances omitted"
+  "provenance_scope": "Public research map only; raw private chats, private file paths, protected code and personal circumstances omitted",
+  "public_research_links": {
+    "living_canvas_entry": "https://bogsergienko.github.io/bog-sense-atlas/absolute-cycle-living/",
+    "github_source_fallback": "https://github.com/BogSergienko/bog-sense-atlas/tree/main/absolute-cycle-living",
+    "patreon_support_optional": "https://www.patreon.com/usunbound",
+    "publication_doi": "PENDING_ZENODO_PUBLICATION"
+  }
 }
