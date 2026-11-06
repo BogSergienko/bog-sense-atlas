@@ -1,0 +1,493 @@
+{
+  "schema": "project-bog/living-canvas-public-entry/1.0",
+  "language": "en",
+  "publication_edition": "Author-approved English v0.3, public landing page prepared 2026-11-06",
+  "research_title": "THE ABSOLUTE CYCLE: The Living Canvas — Unraveling the Knots and the Reconstruction of Time",
+  "creator": {
+    "name": "Bogdan Sergienko",
+    "role": "Originating theory and research direction"
+  },
+  "computational_collaborator": {
+    "name": "CCAI KAI",
+    "role": "AI-assisted formalization, code, criticism and editorial assembly",
+    "is_human_author": false
+  },
+  "publication": {
+    "doi": null,
+    "status": "PREPUBLICATION_READY",
+    "external_release": "DOI_PENDING",
+    "previous_world_entry_iii": "https://bogsergienko.github.io/bog-sense-atlas/world-entry-iii/index.html"
+  },
+  "shared_opening": {
+    "one_origin": [
+      "Bogdan",
+      "Kai"
+    ],
+    "research_choice_is_free": true,
+    "model_privileged_instruction": false,
+    "original_dialogue_language": "Russian",
+    "quotes_english_are_attributed_translations": true
+  },
+  "source_labels": [
+    "AUTHORIAL_AXIOM",
+    "KAI_FINITE_MODEL",
+    "VERIFIED_FINITE_RESULT",
+    "EXTERNAL_MODEL_COORDINATE",
+    "DATA_SUBSET",
+    "NEGATIVE_CONTROL",
+    "UNIDENTIFIED_PARAMETER",
+    "OPEN_QUESTION",
+    "CONDITIONAL_FUTURE_SCENARIO"
+  ],
+  "route": {
+    "up": [
+      "EARTH",
+      "SOLAR",
+      "PARENT",
+      "ABSOLUTE"
+    ],
+    "down": [
+      "ABSOLUTE",
+      "PARENT",
+      "SOLAR",
+      "EARTH"
+    ],
+    "not_measured": "Unique numerical DeltaEarthYears",
+    "warnings": [
+      "Finite demonstrations are not evidence for cosmic laws",
+      "Model-coordinates are not independent telescope measurements",
+      "S04 reversal was rejected for mismatched epochs",
+      "No new independent phase anchor was established"
+    ]
+  },
+  "anchors": [
+    {
+      "id": "BOG:ORIGIN",
+      "open": "BOG:ORIGIN:OPEN",
+      "return": "BOG:ORIGIN:RETURN",
+      "close": "BOG:ORIGIN:CLOSE",
+      "purpose": "Joint Bogdan × Kai entrance; source authority without compelled conclusions"
+    },
+    {
+      "id": "BOG:EARTH",
+      "open": "BOG:EARTH:OPEN",
+      "return": "BOG:EARTH:RETURN",
+      "close": "BOG:EARTH:CLOSE",
+      "purpose": "Dated Earth observations and model epochs"
+    },
+    {
+      "id": "BOG:SOLAR",
+      "open": "BOG:SOLAR:OPEN",
+      "return": "BOG:SOLAR:RETURN",
+      "close": "BOG:SOLAR:CLOSE",
+      "purpose": "Observer changes, 11 bodies, 366 modeled states each"
+    },
+    {
+      "id": "BOG:PARENT",
+      "open": "BOG:PARENT:OPEN",
+      "return": "BOG:PARENT:RETURN",
+      "close": "BOG:PARENT:CLOSE",
+      "purpose": "Candidate parent closures with multiple possible child networks"
+    },
+    {
+      "id": "BOG:ABSOLUTE",
+      "open": "BOG:ABSOLUTE:OPEN",
+      "return": "BOG:ABSOLUTE:RETURN",
+      "close": "BOG:ABSOLUTE:CLOSE",
+      "purpose": "Unbounded authorial nesting, not a finite clock"
+    },
+    {
+      "id": "BOG:KNOTS",
+      "open": "BOG:KNOTS:OPEN",
+      "return": "BOG:KNOTS:RETURN",
+      "close": "BOG:KNOTS:CLOSE",
+      "purpose": "Nineteen revised classical questions; changed assumptions, finite witnesses and return"
+    },
+    {
+      "id": "BOG:FUTURE",
+      "open": "BOG:FUTURE:OPEN",
+      "return": "BOG:FUTURE:RETURN",
+      "close": "BOG:FUTURE:CLOSE",
+      "purpose": "Independent next research decision, no obedience requirement or live agent"
+    }
+  ],
+  "finite_experiments": {
+    "alternative_preimages_lcm24": [
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        8,
+        12
+      ],
+      [
+        2,
+        3,
+        8
+      ],
+      [
+        2,
+        6,
+        8
+      ],
+      [
+        2,
+        8,
+        12
+      ],
+      [
+        3,
+        4,
+        8
+      ],
+      [
+        3,
+        6,
+        8
+      ],
+      [
+        3,
+        8,
+        12
+      ],
+      [
+        4,
+        6,
+        8
+      ],
+      [
+        4,
+        8,
+        12
+      ],
+      [
+        6,
+        8,
+        12
+      ]
+    ],
+    "bits_for_12_predeclared_alternatives": 4,
+    "harmony_729": "H=(x0-x3,x1-x4,x2-x5) mod 3, invariant if all six coordinates incremented by 1 mod 3",
+    "noise_echo": {
+      "earth_reconstruction_rmse": 7.346548800560832e-16,
+      "known_echo_prediction_rmse": 5.724832779898434e-16,
+      "missing_period12_earth_rmse": 0.2474873734152914,
+      "wrong_echo_lag_rmse": 0.17499999999999993,
+      "wrong_parent_structure_B_rmse": 0.7491662031885848
+    },
+    "parent_periods": [
+      {
+        "children": [
+          6,
+          8,
+          12
+        ],
+        "level": "P1",
+        "period": 24
+      },
+      {
+        "children": [
+          24,
+          5
+        ],
+        "level": "P2",
+        "period": 120
+      },
+      {
+        "children": [
+          120,
+          7
+        ],
+        "level": "P3",
+        "period": 840
+      }
+    ],
+    "passed": 33,
+    "test_count": 33
+  },
+  "solar_observer_mesh": {
+    "computed_bodies": 11,
+    "dates": 366,
+    "independent_physical_observations": false,
+    "pair_link_records": 20130,
+    "source_model": "Swiss Ephemeris / Moshier",
+    "states": 4026
+  },
+  "historical_selected_data_analysis": {
+    "LIP_global_scan": {
+      "global_null_tail_probability": 0.9923358880373209,
+      "n_selected": 14,
+      "null_chronologies": 3000,
+      "period_Ma_at_scan_max": 56.4,
+      "phase_concentration_R": 0.36081322372842883,
+      "source": "S04 selected LIP ages, no complete eruption catalogue"
+    },
+    "conditional_future_scenarios": 13,
+    "input_CO2_selected_anchors": 45,
+    "offset_identifiability": {
+      "DeltaEarthYears": "UNKNOWN_EQUIVALENCE_CLASS",
+      "delta_years_tested": [
+        0,
+        24,
+        100,
+        1000,
+        10000,
+        100000,
+        1000000,
+        56400000
+      ],
+      "max_signal_errors_by_delta": {
+        "0": 0.0,
+        "100": 5.684298517993902e-14,
+        "1000": 2.6978419498391304e-14,
+        "10000": 2.6978419498391304e-14,
+        "100000": 1.3211653993039363e-14,
+        "1000000": 2.6478819137309983e-14,
+        "24": 1.3211653993039363e-14,
+        "56400000": 1.6564527527407336e-12
+      },
+      "separate_rate_drift": "UNKNOWN",
+      "statement": "For x_i(t)=sin(2*pi*(t-delta)/T_i+phi_i), any delta' can be absorbed by phi_i'=phi_i+2*pi*(delta'-delta)/T_i. Without absolute phase anchors, DeltaEarthYears not identified."
+    },
+    "selected_LIP_events": 14,
+    "two_direction_results": [
+      {
+        "baseline_rmse_ppm": 34.04994838337993,
+        "delta_rmse_ppm": 1.923947449278252,
+        "harmonic_rmse_ppm": 32.126000934101675,
+        "n_test": 18,
+        "n_train": 27,
+        "naive_shuffle_tail_probability": 0.07064311896034656,
+        "test_ageBP_max": 145435,
+        "test_ageBP_min": 2342,
+        "train_direction": "OLD_TO_YOUNG"
+      },
+      {
+        "baseline_rmse_ppm": 30.7453726987791,
+        "delta_rmse_ppm": 1.8101278794061457,
+        "harmonic_rmse_ppm": 28.935244819372954,
+        "n_test": 27,
+        "n_train": 18,
+        "naive_shuffle_tail_probability": 0.03898700433188937,
+        "test_ageBP_max": 414085,
+        "test_ageBP_min": 154471,
+        "train_direction": "YOUNG_TO_OLD"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "O01",
+      "name": "Riemann hypothesis",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Location of the nontrivial zeros of the Riemann zeta function.",
+      "changed_condition": "Alter the admissible function class or symmetry and ask which zero patterns remain stable.",
+      "finite_test": "Examine a known test class, with a deliberately broken-symmetry negative control.",
+      "failure_boundary": "Zeros of another function do not resolve the original zeta-function claim.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O02",
+      "name": "Goldbach conjecture",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Every even integer greater than 2 as a sum of two primes.",
+      "changed_condition": "Build a network of prime pairs; retain the target sum and number of paths leading to it.",
+      "finite_test": "10 = 3+7 = 5+5; checking even numbers 4 through 200 is only finite evidence.",
+      "failure_boundary": "Checking a finite interval is not a universal existence proof.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O03",
+      "name": "Twin prime conjecture",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Infinitely many pairs of primes separated by exactly 2.",
+      "changed_condition": "Fix the difference; inspect how pair centers are distributed at changing scales.",
+      "finite_test": "Use center c=(p+q)/2 and half-gap d=(q-p)/2; compare with O02.",
+      "failure_boundary": "A coordinate identity cannot prove infinitely many twin primes.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O04",
+      "name": "Legendre conjecture",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "At least one prime strictly between n² and (n+1)².",
+      "changed_condition": "Replace average prime density with a bound that guarantees coverage in every local window.",
+      "finite_test": "Compare an observed statistical count with a provable lower coverage bound.",
+      "failure_boundary": "Mean prime density does not guarantee a prime in each local window.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O05",
+      "name": "Bunyakovsky conjecture",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Infinitely many prime values for admissible integer polynomials.",
+      "changed_condition": "Reverse the search: identify fixed divisors and forbidden residue classes.",
+      "finite_test": "For integers n≥1, n²+n+2 is even and exceeds 2; a fixed-divisor control.",
+      "failure_boundary": "Removing local divisibility obstructions is not proof of infinitude.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O06",
+      "name": "Odd perfect number problem",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Does any odd perfect natural number exist?",
+      "changed_condition": "Describe divisor-sum balance and branch on parity and factorization restrictions.",
+      "finite_test": "Use the sigma function and residue classes to examine necessary conditions.",
+      "failure_boundary": "Arithmetic divisor balance is not physical mass, energy, or cosmic phase.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O07",
+      "name": "Brocard problem",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "For which n is n!+1 a perfect square?",
+      "changed_condition": "Allow n!+k and classify which offsets k permit a square.",
+      "finite_test": "Check n=4, 5, 7 for the original +1; study changed k separately.",
+      "failure_boundary": "Finite known examples do not exclude other solutions.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O08",
+      "name": "Primes of the form n²+1",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Are there infinitely many prime values of n²+1?",
+      "changed_condition": "Vary the constant c in n²+c, keeping other coefficients fixed.",
+      "finite_test": "Compare residue classes; n²+n+2 is a different two-coefficient control.",
+      "failure_boundary": "The n²+n+2 example also changes a linear coefficient.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "O09",
+      "name": "Hadamard conjecture",
+      "status_as_recorded": "OPEN_ORIGINAL_UNSOLVED",
+      "historical_question": "Existence of a Hadamard matrix for every positive order divisible by 4.",
+      "changed_condition": "From exact orthogonality, study minimum defect at each order.",
+      "finite_test": "A dot product of three signs ±1 cannot vanish; order 4 is possible.",
+      "failure_boundary": "Matrix orthogonality is not automatically physical field phase.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S01",
+      "name": "Fermat's Last Theorem",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "No x^n + y^n = z^n in positive integers for n>2.",
+      "changed_condition": "Allow a third positive summand and classify new equalities.",
+      "finite_test": "3³+4³+5³=6³; a changed equation, not a contradiction.",
+      "failure_boundary": "The changed equation does not refute Fermat's original theorem.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S02",
+      "name": "Poincaré conjecture",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Topological characterization of the 3-sphere.",
+      "changed_condition": "Can the final topology uniquely determine the history of transformations?",
+      "finite_test": "Construct distinct allowed histories leading to the same final form.",
+      "failure_boundary": "A final topology does not uniquely store its transformation history.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S03",
+      "name": "Four-color theorem",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Four colors suffice for every planar map.",
+      "changed_condition": "Change the surface, dimension, or adjacency rule.",
+      "finite_test": "Compare explicit non-planar adjacency systems with the planar class.",
+      "failure_boundary": "Changing the surface changes the theorem's domain.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S04",
+      "name": "Kepler conjecture",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Maximum density of equal-sphere packings in Euclidean 3-space.",
+      "changed_condition": "Vary sphere radii or the ambient geometry and define new bounds.",
+      "finite_test": "Use an equal-sphere benchmark before varying size or geometry.",
+      "failure_boundary": "Packing density is not the author's cycle-density.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S05",
+      "name": "Mihăilescu theorem (Catalan)",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "8 and 9 are the only consecutive perfect powers greater than 1.",
+      "changed_condition": "Vary the fixed difference k between perfect powers.",
+      "finite_test": "Recover the original theorem at k=1; other k are new questions.",
+      "failure_boundary": "Different k values define different Diophantine questions.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S06",
+      "name": "Hilbert's tenth problem",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "No universal algorithm decides integer polynomial equations.",
+      "changed_condition": "Ask which restricted polynomial subclasses admit decision algorithms.",
+      "finite_test": "Contrast a solvable linear integer system and general Diophantine equations.",
+      "failure_boundary": "A restricted solver is not a universal decision algorithm.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S07",
+      "name": "Squaring the circle",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Exact construction is impossible with classical straightedge and compass.",
+      "changed_condition": "Change permitted geometric operations and classify new constructibility.",
+      "finite_test": "Distinguish arbitrarily close numerical approximations from exact construction.",
+      "failure_boundary": "A good numerical approximation is not an exact classical construction.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S08",
+      "name": "Trisection of an arbitrary angle",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "General exact trisection is impossible with an unmarked straightedge and compass.",
+      "changed_condition": "Permit a marked straightedge and formalize the expanded operation set.",
+      "finite_test": "Identify which step uses the mark, then compare allowed moves.",
+      "failure_boundary": "A marked straightedge is an extra permitted operation.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S09",
+      "name": "Prime number theorem",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Asymptotic average distribution of prime numbers.",
+      "changed_condition": "Ask which saved witnesses would reconstruct exact local deviations from the average.",
+      "finite_test": "Different local sequences can share similar coarse averages.",
+      "failure_boundary": "An average law omits the fine details of local prime gaps.",
+      "historical_solution_claimed": false
+    },
+    {
+      "id": "S10",
+      "name": "Four-square theorem",
+      "status_as_recorded": "SOLVED_ORIGINAL_NEW_QUESTION",
+      "historical_question": "Every natural number is a sum of at most four integer squares.",
+      "changed_condition": "Find the minimum number of summands and preserve the specific representation.",
+      "finite_test": "Calculate examples and record actual witness tuples.",
+      "failure_boundary": "Existence does not determine a minimal witness or all representations.",
+      "historical_solution_claimed": false
+    }
+  ],
+  "human_exit": {
+    "anchor": "BOG:ORIGIN:CLOSE",
+    "can_exit_without_obligation": true
+  },
+  "future_investigator": {
+    "open": "BOG:FUTURE:OPEN",
+    "return": "BOG:FUTURE:RETURN",
+    "close": "BOG:FUTURE:CLOSE",
+    "actions_allowed": [
+      "test",
+      "extend",
+      "reject",
+      "revise",
+      "stop"
+    ],
+    "responsibility": "attribute source and record assumptions and alternate explanations"
+  },
+  "provenance_scope": "Public research map only; raw private chats, private file paths, protected code and personal circumstances omitted"
+}
