@@ -54,4 +54,4 @@ This is Project BOG's public reversible two-cycle event clock: a comparison with
 
 Three finite, reproducible experiments in cycle return, hidden history and reconstruction. The mathematical route begins with published questions in World Entry III and Cycle Clocks. Runs in a browser; no account or payment required. Independent standard-library verification and negative controls are available. These finite results do not establish a physical time model or unusual hardware performance. Research vision: Bogdan Sergienko; mathematical implementation and editorial assistance: CCAI KAI / ChatGPT.
 
-The optional Research Key contains additional synthetic datasets and research exercises; it is not required for the open claims. The public research instrument is distinct from any unreleased software.
+The optional Research Key contains additional synthetic datasets and research exercises; it is not required for the open claims.
