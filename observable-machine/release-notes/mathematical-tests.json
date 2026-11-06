@@ -1,0 +1,13 @@
+{
+  "roundtrip_identities": 49896,
+  "full_period_minimality_states": 8316,
+  "invalid_input_controls": 11,
+  "reference_vectors": 24948,
+  "independent_reference_vectors_passed": 24948,
+  "mutated_receipts_rejected": 504,
+  "random_histories_exhaustive_preimage_checks": 250,
+  "history_js_python_parity": 250,
+  "lcm24_structures": 12,
+  "status": "PASS",
+  "scope": "Finite models; no physical or secret-engine equivalence claim"
+}
