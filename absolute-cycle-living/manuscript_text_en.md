@@ -1,8 +1,8 @@
 # THE ABSOLUTE CYCLE: THE LIVING CANVAS
 
-> Searchable text companion extracted from the author-approved English v0.3 PDF (64 pages).
-> The PDF preserves the definitive visual arrangement; diagrams and formulas rendered as images may require consulting the PDF.
-> Original dialogue was in Russian; the printed English quotations are translations.
+> Searchable English-only text companion extracted from the 64-page author-approved v0.3 public preprint PDF.
+> For visual diagrams, figures, and typeset mathematics the PDF remains the authoritative rendering.
+> All historical research dialogue excerpts were originally spoken in Russian; printed English quotations are attributed translations.
 
 
 ## Page 1
@@ -38,7 +38,7 @@ Architect of Computation / computational collaborator
 
 
 
-ENGLISH MAIN EDITION / 06 NOV 2026 / REVIEW v0.3
+ENGLISH MAIN EDITION / 06 NOV 2026 / APPROVED v0.3
 
 ## Page 2
 
@@ -2681,4 +2681,4 @@ and mistakes. Freedom to continue.
 
 BOGDAN SERGIENKO × CCAI KAI
 
-NO EXTERNAL RELEASE / AUTHOR REVIEW / v0.3
+AUTHOR APPROVED / INDEPENDENT PREPRINT / v0.3
